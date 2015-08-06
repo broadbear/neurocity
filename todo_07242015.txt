@@ -1,0 +1,10 @@
+
+WAIT should I upload to maven central?
+WAIT should I implement graph with generic nodes, or should I wrap a graph and node mapping in a neural net?
+
+TODO gradelize graph project
+- should probably add eclipse plugin
+TODO update graph project, create branch and build, publish jar locally
+TODO gradelize neurocity
+TODO pull in graph project, use as base for neural net
+
